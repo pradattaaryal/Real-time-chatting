@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradatta\\Desktop\\Chatting application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|c:\\users\\pradatta\\desktop\\chatting application\\chatting application\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|solutionrelative:chatting application\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|c:\\users\\pradatta\\desktop\\chatting application\\chatting application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|solutionrelative:chatting application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|c:\\users\\pradatta\\desktop\\chatting application\\chatting application\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|solutionrelative:chatting application\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Migrations\\20250127024413_Firsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chatting application\\Migrations\\20250127024413_Firsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|c:\\users\\pradatta\\desktop\\chatting application\\chatting application\\data\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|solutionrelative:chatting application\\data\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|c:\\users\\pradatta\\desktop\\chatting application\\chatting application\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|solutionrelative:chatting application\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|c:\\users\\pradatta\\desktop\\chatting application\\chatting application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{525C9E89-D593-4C9E-964E-1AC7C37F51BE}|Chatting application\\Chatting application.csproj|solutionrelative:chatting application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Migrations\\20250127023048_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chatting application\\Migrations\\20250127023048_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Chatting application\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:34:18.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250127024413_Firsts.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Migrations\\20250127024413_Firsts.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Migrations\\20250127024413_Firsts.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Migrations\\20250127024413_Firsts.cs",
+              "RelativeToolTip": "Chatting application\\Migrations\\20250127024413_Firsts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:44:14.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250127023048_First.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Migrations\\20250127023048_First.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Migrations\\20250127023048_First.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Migrations\\20250127023048_First.cs",
+              "RelativeToolTip": "Chatting application\\Migrations\\20250127023048_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:30:48.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Chatting application\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:25:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Program.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Program.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Program.cs",
+              "RelativeToolTip": "Chatting application\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:25:02.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\appsettings.json",
+              "RelativeDocumentMoniker": "Chatting application\\appsettings.json",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\appsettings.json",
+              "RelativeToolTip": "Chatting application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T02:23:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Data\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Data\\ChatDbContext.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Data\\ChatDbContext.cs",
+              "RelativeToolTip": "Chatting application\\Data\\ChatDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:22:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Model\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Chatting application\\Model\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\pradatta\\Desktop\\Chatting application\\Chatting application\\Model\\ChatMessage.cs",
+              "RelativeToolTip": "Chatting application\\Model\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T02:19:07.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
